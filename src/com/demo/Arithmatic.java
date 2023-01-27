@@ -12,7 +12,8 @@ public class Arithmatic {
         return a*b;
     }
     public static  void main(String[] args){
-        Arithmatic arithmatic = new Arithmatic();
+        Arithmatjhnmic arithmatic = new Arithmatic();
+
         System.out.println("Adding two number "+arithmatic.add(5, 3));
         System.out.println("substracting two numbers "+arithmatic.sub(5, 3));
         System.out.println( " multipluying two numbers "+ arithmatic.mul(5, 3));
